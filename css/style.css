@@ -30852,6 +30852,7 @@ img.mfp-img {
 }
 
 .rd-navbar-brand .brand-name {
+  display:none;
   font-size: 100px;
   font-weight: 300;
   line-height: 1;
