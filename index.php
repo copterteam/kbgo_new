@@ -2,12 +2,12 @@
 <html lang="en" class="wide wow-animation">
   <head>
     <!-- Site Title-->
-    <title>Home</title>
+    <title>Беспилотники для аэрофотосъемки | КБ Горбунова А.А.</title>
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta charset="utf-8">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <!-- Stylesheets-->
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:100,300,400,500">
     <link rel="stylesheet" href="css/style.css">
@@ -17,103 +17,12 @@
 		<![endif]-->
   </head>
   <body>
-    <!-- Page-->
+  
+   <!-- Page-->
     <div class="page text-center">
-      <!-- Page Header-->
-      <header class="page-head">
-        <!-- RD Navbar-->
-        <div class="rd-navbar-wrap">
-          <nav data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fullwidth" data-lg-layout="rd-navbar-fullwidth" data-lg-device-layout="rd-navbar-fullwidth" class="rd-navbar">
-            <div class="rd-navbar-inner">
-              <!-- RD Navbar Panel-->
-              <div class="rd-navbar-panel">
-                <!-- RD Navbar Toggle-->
-                <button data-rd-navbar-toggle=".rd-navbar-nav-wrap" class="rd-navbar-toggle"><span></span></button>
-                <!-- RD Navbar Brand-->
-                <div class="rd-navbar-brand"><a href="index.html" class="brand-name">КБ Горбунова</a></div>
-                <aside class="rd-navbar-aside">
-                  <div data-rd-navbar-toggle=".rd-navbar-aside" class="rd-navbar-aside-toggle"><span></span></div>
-                  <div class="rd-navbar-aside-content">
-                    <address class="rd-navbar-aside-contact-info rd-navbar-aside-contact-info-variant-1">
-                      <p>4578 Marmora Road,<br>Glasgow D04 89 GR</p>
-                    </address>
-                    <address class="rd-navbar-aside-contact-info rd-navbar-aside-contact-info-variant-2">
-                      <p><a href="callto:#">+1 800 559 6580</a></p>
-                      <p><a href="callto:#">+1 959 603 6035</a></p>
-                    </address>
-                  </div>
-                </aside>
-              </div>
-              <div class="rd-navbar-nav-wrap">
-                <!-- RD Navbar Nav-->
-                <ul class="rd-navbar-nav">
-                  <li class="active"><a href="index.html">Главная</a></li>
-                  <li><a href="about.html">О нас</a>
-                    <!-- 
-                    <ul class="rd-navbar-dropdown">
-                      <li><a href="#">History</a></li>
-                      <li><a href="#">Features</a>
-                        <ul class="rd-navbar-dropdown">
-                          <li><a href="#">Archive</a></li>
-                          <li><a href="#">Events</a></li>
-                          <li><a href="./404.html">404 page</a></li>
-                        </ul>
-                      </li>
-                      <li><a href="#">Basic Service</a></li>
-                      <li><a href="#">Products</a></li>
-                    </ul>RD Navbar Dropdown-->
-                  </li>
-                  <li><a href="services.html">Услуги</a></li>
-                  <li><a href="products.html">Продукция</a></li>
-                  <li><a href="news.html">Новости</a></li>
-                  <li><a href="contacts.html">Контакты</a></li>
-                </ul>
-              </div>
-            </div>
-          </nav>
-        </div>
-        <!-- Swiper-->
-        <div class="page-head-body">
-          <div class="swiper-wrap">
-            <div class="swiper-container swiper-slider">
-              <div class="swiper-wrapper">
-                <div data-slide-bg="images/home-slide-01-2050x954.jpg" class="swiper-slide"></div>
-                <div data-slide-bg="images/home-slide-02-2050x954.jpg" class="swiper-slide"></div>
-                <div data-slide-bg="images/home-slide-03-2050x954.jpg" class="swiper-slide"></div>
-              </div>
-              <!-- Swiper Pagination-->
-              <div class="swiper-pagination"></div>
-            </div>
-          </div>
-          <div class="page-head-content bg-context-dark text-center">
-            <div class="section-bottom-80 section-md-bottom-100 section-sh2-bottom-204 bg-context-dark block-top-level">
-              <div class="section-35 section-sm-89">
-                <div class="shell text-center">
-                  <ul class="list-inline-separated">
-                    <li><a href="#">twitter</a></li>
-                    <li><a href="#">facebook</a></li>
-                    <li><a href="#">pinterest</a></li>
-                    <li><a href="#">youtube</a></li>
-                    <li><a href="#">instagram</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="section-35 section-md-100 section-lg-35 section-sh2-189">
-                <div class="shell">
-                  <div class="range range-condensed range-md-center text-center">
-                    <div class="cell-xs-12 cell-md-10">
-                      <h2>
-                        Leader in power and automation
-                        technologies
-                      </h2>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </header>
+	
+<?include("header.php"); ?>
+
       <!-- Page Content-->
       <main class="page-content">
         <!-- Links -->
@@ -284,52 +193,12 @@
         </section>
 
       </main>
-      <!-- Page Footer-->
-      <footer class="page-foot section-75">
-        <div class="shell text-center">
-          <div class="hr-vertical"></div>
-          <h5>Contact us</h5>
-          <div class="range">
-            <div class="cell-sm-4">
-              <address class="contact-info">8901 Marmora road,<br>Glasgow, D04 89GR</address>
-              <p class="offset-top-15 offset-sm-top-29"><a href="#" class="link link-primary">Get Directions</a></p>
-            </div>
-            <div class="cell-sm-4 offset-top-45 offset-sm-top-0">
-              <address class="contact-info">
-                <dl>
-                  <dt>Freephone</dt>
-                  <dd><a href="callto:#">+1 800 559 6580</a></dd>
-                </dl>
-                <dl>
-                  <dt>Telephone</dt>
-                  <dd><a href="callto:#">+1 959 603 6035</a></dd>
-                </dl>
-                <dl>
-                  <dt>FAX</dt>
-                  <dd><a href="callto:#">+1 504 889 9898</a></dd>
-                </dl>
-              </address>
-            </div>
-            <div class="cell-sm-4 offset-top-45 offset-sm-top-0">
-              <address class="contact-info">
-                <dl class="dl-inline">
-                  <dt>E-mail</dt>
-                  <dd><a href="mailto:#">mail@demolink.org</a></dd>
-                </dl>
-              </address>
-            </div>
-          </div>
+ 
+ 
+<?include("footer.php"); ?>
 
-          <p class="rights offset-top-45 offset-lg-top-86"><a href="./index.html" class="brand">Industrial</a>
-&#169;
-<span id="copyright-year"></span><span class="symbol">&bull;</span>
-<a href="privacy.html">Privacy Policy</a>
 
-            <!-- {%FOOTER_LINK}-->
-          </p>
-        </div>
-      </footer>
-    </div>
+ </div>
 
     <!-- Java script-->
     <script src="js/core.min.js"></script>
