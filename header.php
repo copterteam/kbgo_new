@@ -58,10 +58,10 @@
         <div class="page-head-body">
           <div class="swiper-wrap">
             <div class="swiper-container swiper-slider">
-              <div class="swiper-wrapper">
-                <div data-slide-bg="images/home-slide-01-2050x954.jpg" class="swiper-slide"></div>
-                <div data-slide-bg="images/home-slide-02-2050x954.jpg" class="swiper-slide"></div>
-                <div data-slide-bg="images/home-slide-03-2050x954.jpg" class="swiper-slide"></div>
+              <div class="swiper-wrapper">			  
+                <div data-slide-bg="images/DSC07424.jpg" class="swiper-slide"></div>
+                <div data-slide-bg="images/DSC08088.jpg" class="swiper-slide"></div>
+                <div data-slide-bg="images/DJI_0663.jpg" class="swiper-slide"></div>
               </div>
               <!-- Swiper Pagination-->
               <div class="swiper-pagination"></div>
@@ -83,8 +83,8 @@
                   <div class="range range-condensed range-md-center text-center">
                     <div class="cell-xs-12 cell-md-10">
                       <h2>
-                        Leader in power and automation
-                        technologies
+                        Разработка летательных аппаратов
+                        промышленного назначения
                       </h2>
                     </div>
                   </div>

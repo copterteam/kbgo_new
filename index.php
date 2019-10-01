@@ -29,21 +29,21 @@
         <section>
           <div class="range range-condensed">
             <div class="cell-xs-12 cell-sm-4">
-              <div class="thumbnail thumbnail-variant-1"><img src="images/home-01-682x482.jpg" alt="" width="682" height="482"><a href="#" class="caption">
+              <div class="thumbnail thumbnail-variant-1"><img src="images/home-01-682x482.jpeg" alt="" width="682" height="482"><a href="#" class="caption">
                   <div class="caption-body">
-                    <h5>why us</h5><small>Our Mission & Vision</small>
+                    <h5>О нас</h5><small>Наша история</small>
                   </div></a></div>
             </div>
             <div class="cell-xs-12 cell-sm-4">
               <div class="thumbnail thumbnail-variant-1"><img src="images/home-02-682x482.jpg" alt="" width="682" height="482"><a href="#" class="caption">
                   <div class="caption-body">
-                    <h5>who we are</h5><small>Company Profile</small>
+                    <h5>Почему мы</h5><small>Преимущества работы</small>
                   </div></a></div>
             </div>
             <div class="cell-xs-12 cell-sm-4">
               <div class="thumbnail thumbnail-variant-1"><img src="images/home-03-682x482.jpg" alt="" width="682" height="482"><a href="#" class="caption">
                   <div class="caption-body">
-                    <h5>what we do</h5><small>Services Overview</small>
+                    <h5>Чем занимаемся</h5><small>Услуги и сотрудничество</small>
                   </div></a></div>
             </div>
           </div>
