@@ -1,3 +1,4 @@
+<?	$file = $_SERVER['SCRIPT_FILENAME']; ?>
 
       <!-- Page Header-->
       <header class="page-head">
@@ -27,8 +28,8 @@
               <div class="rd-navbar-nav-wrap">
                 <!-- RD Navbar Nav-->
                 <ul class="rd-navbar-nav">
-                  <li class="active"><a href="/">Главная</a></li>
-                  <li><a href="about.html">О нас</a>
+                  <li <?if(substr($file,-9) == 'index.php'){?>	class="active"<?}?> ><a href="/">Главная</a></li>
+                  <li <?if(substr($file,-9) == 'about.php'){?>	class="active"<?}?>><a href="/about">О нас</a>
                     <!-- 
                     <ul class="rd-navbar-dropdown">
                       <li><a href="#">History</a></li>
@@ -43,20 +44,17 @@
                       <li><a href="#">Products</a></li>
                     </ul>RD Navbar Dropdown-->
                   </li>
-                  <li><a href="/uslugi">Услуги</a></li>
-                  <li><a href="products.html">Продукция</a></li>
-                  <li><a href="news.html">Новости</a></li>
-                  <li><a href="contacts.html">Контакты</a></li>
+                  <li <?if(substr($file,-10) == 'uslugi.php'){?>	class="active"<?}?> ><a href="/uslugi">Услуги</a></li>
+                  <li <?if(substr($file,-12) == 'products.php'){?>	class="active"<?}?>><a href="/products">Продукция</a></li>
+                  <li <?if(substr($file,-8) == 'news.php'){?>	class="active"<?}?>><a href="/news">Новости</a></li>
+                  <li <?if(substr($file,-12) == 'contacts.php'){?>	class="active"<?}?>><a href="/contacts">Контакты</a></li>
                 </ul>
               </div>
             </div>
           </nav>
         </div>
 
-	<?
-	$file = $_SERVER['SCRIPT_FILENAME'];
-	
-	if(substr($file,-9) == 'index.php'){?>	
+	<?	if(substr($file,-9) == 'index.php'){?>	
   <!-- Swiper-->
         <div class="page-head-body">
           <div class="swiper-wrap">
