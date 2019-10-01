@@ -61,7 +61,7 @@
               <div class="swiper-wrapper">			  
                 <div data-slide-bg="images/DSC07424.jpg" class="swiper-slide"></div>
                 <div data-slide-bg="images/DSC08088.jpg" class="swiper-slide"></div>
-                <div data-slide-bg="images/DJI0663.jpg" class="swiper-slide"></div>
+                <div data-slide-bg="images/DJI0663.JPG" class="swiper-slide"></div>
               </div>
               <!-- Swiper Pagination-->
               <div class="swiper-pagination"></div>
