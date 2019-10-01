@@ -43,7 +43,7 @@
             <div class="cell-xs-12 cell-sm-4">
               <div class="thumbnail thumbnail-variant-1"><img src="images/home-03-682x482.jpg" alt="" width="682" height="482"><a href="#" class="caption">
                   <div class="caption-body">
-                    <h5>Чем занимаемся</h5><small>Услуги и сотрудничество</small>
+                    <h5>Деятельность</h5><small>Услуги и сотрудничество</small>
                   </div></a></div>
             </div>
           </div>

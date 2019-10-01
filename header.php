@@ -43,7 +43,7 @@
                       <li><a href="#">Products</a></li>
                     </ul>RD Navbar Dropdown-->
                   </li>
-                  <li><a href="services.html">Услуги</a></li>
+                  <li><a href="/uslugi">Услуги</a></li>
                   <li><a href="products.html">Продукция</a></li>
                   <li><a href="news.html">Новости</a></li>
                   <li><a href="contacts.html">Контакты</a></li>
@@ -53,7 +53,10 @@
           </nav>
         </div>
 
-		
+	<?
+	$file = $_SERVER['SCRIPT_FILENAME'];
+	
+	if(substr($file,-9) == 'index.php'){?>	
   <!-- Swiper-->
         <div class="page-head-body">
           <div class="swiper-wrap">
@@ -93,6 +96,6 @@
             </div>
           </div>
         </div>
-		
+	<?}?>	
 		
       </header>
