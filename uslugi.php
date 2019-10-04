@@ -30,28 +30,30 @@
             <div class="cell-xs-12 cell-sm-6 cell-lg-3">
               <div class="thumbnail thumbnail-variant-2"><img src="images/services-01-512x550.jpg" alt="" width="512" height="550">
                 <div class="caption">
-                  <h5><a href="#">MS & SS Tank</a></h5>
+                  <h5><a href="#">Карты местности</a></h5>
                 </div>
               </div>
             </div>
-            <div class="cell-xs-12 cell-sm-6 cell-lg-3 offset-top-45 offset-sm-top-0">
-              <div class="thumbnail thumbnail-variant-2"><img src="images/services-02-514x570.jpg" alt="" width="514" height="570">
-                <div class="caption">
-                  <h5><a href="#">SS Grating & Chequered Plates</a></h5>
-                </div>
-              </div>
-            </div>
+       
             <div class="cell-xs-12 cell-sm-6 cell-lg-3 offset-top-45 offset-lg-top-0">
               <div class="thumbnail thumbnail-variant-2"><img src="images/home-06-514x550.jpg" alt="" width="514" height="550">
                 <div class="caption">
-                  <h5><a href="#">MS & SS Handrail</a></h5>
+                  <h5><a href="#">Оследование высотных конструкций</a></h5>
                 </div>
               </div>
             </div>
+			     <div class="cell-xs-12 cell-sm-6 cell-lg-3 offset-top-45 offset-sm-top-0">
+              <div class="thumbnail thumbnail-variant-2"><img src="images/services-02-514x570.jpg" alt="" width="514" height="570">
+                <div class="caption">
+                  <h5><a href="#">Съемка линейных объектов</a></h5>
+                </div>
+              </div>
+            </div>
+			
             <div class="cell-xs-12 cell-sm-6 cell-lg-3 offset-top-45 offset-lg-top-0">
               <div class="thumbnail thumbnail-variant-2"><img src="images/services-04-510x630.jpg" alt="" width="510" height="630">
                 <div class="caption">
-                  <h5><a href="#">Repair & Maintenance Works</a></h5>
+                  <h5><a href="#">Мониторинг береговой линии</a></h5>
                 </div>
               </div>
             </div>
