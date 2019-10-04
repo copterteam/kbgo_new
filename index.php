@@ -55,11 +55,10 @@
             <div class="range range-sm-center">
               <div class="cell-xs-12 cell-sm-11 cell-md-10">
                 <div class="hr-vertical"></div>
-                <h5>Welcome</h5>
+                <h5>Разработка беспилотников</h5>
                 <p class="offset-md-top-45">
-                  We provide innovative product solutions for sustainable progress. Our professional team works to increase productivity and cost effectiveness on the market. We offer customers cost efficient hightech solutions
-                  as well as products and services.
-                </p><a href="#" class="btn btn-default">Learn More</a>
+                  Наша компания специализируется на разработке беспилотных летательных аппаратов промышленного класса для решения специфических задач заказчика. Каждый наш проект нацелен в первую очередь на эффективное применения беспилотной авиации в конкретной отрасли промышленности. 
+                </p><a href="#" class="btn btn-default">Подробнее</a>
               </div>
             </div>
           </div>
@@ -183,10 +182,9 @@
         <section>
           <!-- RD Google Map-->
           <div class="rd-google-map">
-            <div id="google-map" data-zoom="14" data-x="-73.9874068" data-y="40.643180" class="rd-google-map__model"></div>
+            <div id="google-map" data-zoom="14" data-x="30.3679987" data-y="59.759686" class="rd-google-map__model"></div>
             <ul class="rd-google-map__locations">
-              <li data-x="-73.9874068" data-y="40.643180">
-                <p>9870 St Vincent Place, Glasgow, DC 45 Fr 45.<br><span>800 2345-6789</span></p>
+              <li data-x="30.3679987" data-y="59.759686">
               </li>
             </ul>
           </div>

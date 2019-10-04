@@ -49,8 +49,8 @@ var userAgent = navigator.userAgent.toLowerCase(),
       isotope: $(".isotope"),
       mailForm: $('.rd-mailform'),
       facebookplugin: $('#fb-root'),
-      googleMapAPI: '//maps.google.com/maps/api/js',
-      googleMapLibraries: '//maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=places',
+      googleMapAPI: '//maps.google.com/maps/api/js?key=AIzaSyAuu17fgqU1NPrLt21dmBxAnxDlKwCElv4&callback=initMap',
+      googleMapLibraries: '//maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyAuu17fgqU1NPrLt21dmBxAnxDlKwCElv4&libraries=places',
       googleMap: $('#google-map'),
       googleSearch: $('.google-search'),
       audioPlayer: $('.rd-audio'),
@@ -410,7 +410,7 @@ $document.ready(function () {
             center: {lat: -33.8688, lng: 151.2195},
             zoom: 13,
             icon:image,
-            styles: [{
+			styles: [{
               "featureType": "administrative",
               "elementType": "labels.text.fill",
               "stylers": [

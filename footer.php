@@ -2,25 +2,25 @@
       <footer class="page-foot section-75">
         <div class="shell text-center">
           <div class="hr-vertical"></div>
-          <h5>Contact us</h5>
+          <h5>Контакты</h5>
           <div class="range">
             <div class="cell-sm-4">
-              <address class="contact-info">8901 Marmora road,<br>Glasgow, D04 89GR</address>
+              <address class="contact-info">196140 Санкт-Петербург,<br>Кокколевская ул.1 А, оф.206</address>
               <p class="offset-top-15 offset-sm-top-29"><a href="#" class="link link-primary">Get Directions</a></p>
             </div>
             <div class="cell-sm-4 offset-top-45 offset-sm-top-0">
               <address class="contact-info">
                 <dl>
-                  <dt>Freephone</dt>
-                  <dd><a href="callto:#">+1 800 559 6580</a></dd>
+                  <dt>Телефон</dt>
+                  <dd><a href="callto:#">+7 812 309 7415</a></dd>
                 </dl>
                 <dl>
-                  <dt>Telephone</dt>
-                  <dd><a href="callto:#">+1 959 603 6035</a></dd>
+                  <dt>WhatsApp</dt>
+                  <dd><a href="callto:#">+7 901 310 3767</a></dd>
                 </dl>
                 <dl>
-                  <dt>FAX</dt>
-                  <dd><a href="callto:#">+1 504 889 9898</a></dd>
+                  <dt>Факс</dt>
+                  <dd><a href="callto:#">+7 812 309 7415</a></dd>
                 </dl>
               </address>
             </div>
@@ -28,7 +28,7 @@
               <address class="contact-info">
                 <dl class="dl-inline">
                   <dt>E-mail</dt>
-                  <dd><a href="mailto:#">mail@demolink.org</a></dd>
+                  <dd><a href="mailto:#">copter@kbgo.ru</a></dd>
                 </dl>
               </address>
             </div>
