@@ -70,7 +70,7 @@
             <div class="cell-xs-12 cell-sm-6 cell-lg-3">
               <div class="thumbnail thumbnail-variant-2"><img src="images/home-04-512x550.jpg" alt="" width="512" height="550">
                 <div class="caption">
-                  <h5>Resources</h5>
+                  <h5>Выставки</h5>
                   <p>A growing diversified industrial company with resource management system.</p><a href="#" class="link link-primary link-primary-icon">Learn More</a>
                 </div>
               </div>
@@ -78,23 +78,23 @@
             <div class="cell-xs-12 cell-sm-6 cell-lg-3 offset-top-45 offset-sm-top-0">
               <div class="thumbnail thumbnail-variant-2"><img src="images/home-05-514x670.jpg" alt="" width="514" height="670">
                 <div class="caption">
-                  <h5>Solutions</h5>
+                  <h5>Обучение</h5>
                   <p>Offering a great amount of innovative solutions for customer satisfaction.</p><a href="#" class="link link-primary link-primary-icon">Learn More</a>
                 </div>
               </div>
             </div>
             <div class="cell-xs-12 cell-sm-6 cell-lg-3 offset-top-45 offset-md-top-0">
-              <div class="thumbnail thumbnail-variant-2"><img src="images/home-06-514x550.jpg" alt="" width="514" height="550">
+              <div class="thumbnail thumbnail-variant-2"><img src="images/home-07-510x630.jpg" alt="" width="514" height="550">
                 <div class="caption">
-                  <h5>Technology</h5>
+                  <h5>Объекты</h5>
                   <p>Providing energy efficiency and renewable technology solutions.</p><a href="#" class="link link-primary link-primary-icon">Learn More</a>
                 </div>
               </div>
             </div>
             <div class="cell-xs-12 cell-sm-6 cell-lg-3 offset-top-45 offset-md-top-0">
-              <div class="thumbnail thumbnail-variant-2"><img src="images/home-07-510x630.jpg" alt="" width="510" height="630">
+              <div class="thumbnail thumbnail-variant-2"><img src="images/home-08-510x630.jpg" alt="" width="510" height="630">
                 <div class="caption">
-                  <h5>Productivity</h5>
+                  <h5>Инфраструктура</h5>
                   <p>We are a global industry leader with a mission: we want to help people to do more, feel better.</p><a href="#" class="link link-primary link-primary-icon">Learn More</a>
                 </div>
               </div>
