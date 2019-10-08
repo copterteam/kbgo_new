@@ -71,7 +71,7 @@
               <div class="thumbnail thumbnail-variant-2"><img src="images/home-04-512x550.jpg" alt="" width="512" height="550">
                 <div class="caption">
                   <h5>Выставки</h5>
-                  <p>A growing diversified industrial company with resource management system.</p><a href="#" class="link link-primary link-primary-icon">Learn More</a>
+                  <p>Наши разработки демонстрируются на международных отраслевых выставках</p><a href="#" class="link link-primary link-primary-icon">Подробнее</a>
                 </div>
               </div>
             </div>
@@ -79,7 +79,7 @@
               <div class="thumbnail thumbnail-variant-2"><img src="images/home-05-514x670.jpg" alt="" width="514" height="670">
                 <div class="caption">
                   <h5>Обучение</h5>
-                  <p>Offering a great amount of innovative solutions for customer satisfaction.</p><a href="#" class="link link-primary link-primary-icon">Learn More</a>
+                  <p>Сотрудники наших заказчиков проходят обучение по различным квалификационным программам</p><a href="#" class="link link-primary link-primary-icon">Подробнее</a>
                 </div>
               </div>
             </div>
@@ -87,15 +87,15 @@
               <div class="thumbnail thumbnail-variant-2"><img src="images/home-07-510x630.jpg" alt="" width="514" height="550">
                 <div class="caption">
                   <h5>Объекты</h5>
-                  <p>Providing energy efficiency and renewable technology solutions.</p><a href="#" class="link link-primary link-primary-icon">Learn More</a>
+                  <p>Выездная работа на специальных промышленных объектах позволяет лучше понять заказчика</p><a href="#" class="link link-primary link-primary-icon">Подробнее</a>
                 </div>
               </div>
             </div>
             <div class="cell-xs-12 cell-sm-6 cell-lg-3 offset-top-45 offset-md-top-0">
               <div class="thumbnail thumbnail-variant-2"><img src="images/home-08-510x630.jpg" alt="" width="510" height="630">
                 <div class="caption">
-                  <h5>Инфраструктура</h5>
-                  <p>We are a global industry leader with a mission: we want to help people to do more, feel better.</p><a href="#" class="link link-primary link-primary-icon">Learn More</a>
+                  <h5>Полеты</h5>
+                  <p>Демонстрация возможностей летательных аппаратов в реальных условиях эксплуатации</p><a href="#" class="link link-primary link-primary-icon">Подробнее</a>
                 </div>
               </div>
             </div>
@@ -108,13 +108,10 @@
             <div class="cell-xs-12 cell-sm-6">
               <figure class="figure figure-variant-1"><img src="images/home-08-750x468.jpg" alt="" width="750" height="468">
                 <figcaption class="bg-warning">
-                  <h5>Our role is to ensure that we deliver profitable solutions</h5>
+                  <h5>Мы стремимся применить весь свой опыт в решении сложных задач</h5>
                   <p>
-                    We seek a high standard of performance, maintaining a strong long-term and growing position in the competitive
-                    environments in which we choose to operate. We aim to work closely with our customers, our partners
-                    and policymakers to advance more efficient and sustainable use
-                    of energy and natural resources.
-                    
+                    К нам обращаются в тех случаях, когда стандартные варианты не работают. Когда требуется основательный подход и глубокое погружение в суть проблемы.
+					Каждый новый проект расширяет наши знания и позволяет браться за более сложные и ответственные задачи в дальнейшем.
                   </p>
                 </figcaption>
               </figure>
@@ -122,13 +119,10 @@
             <div class="cell-xs-12 cell-sm-6">
               <figure class="figure figure-variant-1"><img src="images/home-09-750x468.jpg" alt="" width="750" height="468">
                 <figcaption class="bg-gray-darker">
-                  <h5>We value communication and consultation</h5>
+                  <h5>Научный подход и навыки производителя</h5>
                   <p>
-                    We encourage our staff to report their views about our processes and practices safely and confidentially
-                    to managers or Human Resources staff. A diverse workforce and an inclusive work
-                    environment are vital to our success and are aligned
-                    with our core values of honesty, integrity and
-                    respect for people.
+                    Не боимся браться за разработку иновационных систем с привлечением узкопрофильных специалистов высокого уровня. 
+					Изготавливаем уникальные узлы и конструкторские решения как у себя, так и с привлечением дополнительных производственных мощностей.
                   </p>
                 </figcaption>
               </figure>
