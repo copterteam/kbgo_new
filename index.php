@@ -29,19 +29,19 @@
         <section>
           <div class="range range-condensed">
             <div class="cell-xs-12 cell-sm-4">
-              <div class="thumbnail thumbnail-variant-1"><img src="images/home-01-682x482.jpeg" alt="" width="682" height="482"><a href="#" class="caption">
+              <div class="thumbnail thumbnail-variant-1"><img src="images/home-01-682x482.jpeg" alt="О компании КБ Горбунова А.А." width="682" height="454"><a href="#" class="caption">
                   <div class="caption-body">
                     <h5>О нас</h5><small>Наша история</small>
                   </div></a></div>
             </div>
             <div class="cell-xs-12 cell-sm-4">
-              <div class="thumbnail thumbnail-variant-1"><img src="images/home-02-682x482.jpg" alt="" width="682" height="482"><a href="#" class="caption">
+              <div class="thumbnail thumbnail-variant-1"><img src="images/home-02-682x482.jpg" alt="Преимущества работы с нами" width="682" height="454"><a href="#" class="caption">
                   <div class="caption-body">
                     <h5>Почему мы</h5><small>Преимущества работы</small>
                   </div></a></div>
             </div>
             <div class="cell-xs-12 cell-sm-4">
-              <div class="thumbnail thumbnail-variant-1"><img src="images/home-03-682x482.jpg" alt="" width="682" height="482"><a href="#" class="caption">
+              <div class="thumbnail thumbnail-variant-1"><img src="images/home-03-682x482.jpg" alt="Деятельность компании" width="682" height="454"><a href="#" class="caption">
                   <div class="caption-body">
                     <h5>Деятельность</h5><small>Услуги и сотрудничество</small>
                   </div></a></div>
@@ -68,7 +68,7 @@
         <section class="section-bottom-75 section-lg-bottom-117">
           <div class="range range-condensed">
             <div class="cell-xs-12 cell-sm-6 cell-lg-3">
-              <div class="thumbnail thumbnail-variant-2"><img src="images/home-04-512x550.jpg" alt="" width="512" height="550">
+              <div class="thumbnail thumbnail-variant-2"><img src="images/home-04-512x550.jpg" alt="Наша продукция на выставках" width="512" height="550">
                 <div class="caption">
                   <h5>Выставки</h5>
                   <p>Наши разработки демонстрируются на международных отраслевых выставках</p><a href="#" class="link link-primary link-primary-icon">Подробнее</a>
@@ -76,7 +76,7 @@
               </div>
             </div>
             <div class="cell-xs-12 cell-sm-6 cell-lg-3 offset-top-45 offset-sm-top-0">
-              <div class="thumbnail thumbnail-variant-2"><img src="images/home-05-514x670.jpg" alt="" width="514" height="670">
+              <div class="thumbnail thumbnail-variant-2"><img src="images/home-05-514x670.jpg" alt="Обучение сотрудников заказчика" width="514" height="650">
                 <div class="caption">
                   <h5>Обучение</h5>
                   <p>Сотрудники наших заказчиков проходят обучение по различным квалификационным программам</p><a href="#" class="link link-primary link-primary-icon">Подробнее</a>
@@ -84,7 +84,7 @@
               </div>
             </div>
             <div class="cell-xs-12 cell-sm-6 cell-lg-3 offset-top-45 offset-md-top-0">
-              <div class="thumbnail thumbnail-variant-2"><img src="images/home-07-510x630.jpg" alt="" width="514" height="550">
+              <div class="thumbnail thumbnail-variant-2"><img src="images/home-07-510x630.jpg" alt="Промышленные объекты" width="514" height="553">
                 <div class="caption">
                   <h5>Объекты</h5>
                   <p>Выездная работа на специальных промышленных объектах позволяет лучше понять заказчика</p><a href="#" class="link link-primary link-primary-icon">Подробнее</a>
@@ -92,7 +92,7 @@
               </div>
             </div>
             <div class="cell-xs-12 cell-sm-6 cell-lg-3 offset-top-45 offset-md-top-0">
-              <div class="thumbnail thumbnail-variant-2"><img src="images/home-08-510x630.jpg" alt="" width="510" height="630">
+              <div class="thumbnail thumbnail-variant-2"><img src="images/home-08-510x630.jpg" alt="Полеты в реальных условиях" width="514" height="650">
                 <div class="caption">
                   <h5>Полеты</h5>
                   <p>Демонстрация возможностей летательных аппаратов в реальных условиях эксплуатации</p><a href="#" class="link link-primary link-primary-icon">Подробнее</a>
@@ -106,7 +106,7 @@
         <section>
           <div class="range range-condensed">
             <div class="cell-xs-12 cell-sm-6">
-              <figure class="figure figure-variant-1"><img src="images/home-08-750x468.jpg" alt="" width="750" height="468">
+              <figure class="figure figure-variant-1"><img src="images/home-08-750x468.jpg" alt="Промышленный квадрокоптер" width="750" height="562">
                 <figcaption class="bg-warning">
                   <h5>Мы стремимся применить весь свой опыт в решении сложных задач</h5>
                   <p>
@@ -117,7 +117,7 @@
               </figure>
             </div>
             <div class="cell-xs-12 cell-sm-6">
-              <figure class="figure figure-variant-1"><img src="images/home-09-750x468.jpg" alt="" width="750" height="468">
+              <figure class="figure figure-variant-1"><img src="images/home-09-750x468.jpg" alt="Промышленное применение беспилотника" width="750" height="509">
                 <figcaption class="bg-gray-darker">
                   <h5>Научный подход и навыки производителя</h5>
                   <p>
@@ -136,37 +136,37 @@
             <div class="range">
               <div class="cell-xs-12">
                 <div class="hr-vertical"></div>
-                <h5>Industrial Automation & Control Business</h5>
+                <h5>Опыт полетных испытаний и выполненных работ</h5>
               </div>
             </div>
           </div>
           <div class="range range-condensed range-bordered range-sm-2-bordered range-md-4-bordered offset-md-top-86">
             <div class="cell-xs-12 cell-sm-6 cell-md-3">
               <div class="counter-wrap">
-                <div data-from="0" data-to="134" class="counter"></div>
+                <div data-from="0" data-to="14" class="counter"></div>
                 <div class="icon icon-sm icon-default material-icons-language"></div>
-                <p>Field Instruments</p><a href="#" class="link link-primary link-primary-icon">Learn More</a>
+                <p>Промышленных объектов</p><a href="#" class="link link-primary link-primary-icon">Подробнее</a>
               </div>
             </div>
             <div class="cell-xs-12 cell-sm-6 cell-md-3">
               <div class="counter-wrap">
-                <div data-from="0" data-to="450" class="counter"></div>
+                <div data-from="0" data-to="67" class="counter"></div>
                 <div class="icon icon-sm icon-default material-icons-security"></div>
-                <p>Network-based Control Systems</p><a href="#" class="link link-primary link-primary-icon">Learn More</a>
+                <p>Обученных сотрудников</p><a href="#" class="link link-primary link-primary-icon">Подробнее</a>
               </div>
             </div>
             <div class="cell-xs-12 cell-sm-6 cell-md-3">
               <div class="counter-wrap">
-                <div data-from="0" data-to="28" class="counter"></div>
+                <div data-from="0" data-to="234" class="counter"></div>
                 <div class="icon icon-sm icon-default material-icons-settings"></div>
-                <p>Industrial Recorders</p><a href="#" class="link link-primary link-primary-icon">Learn More</a>
+                <p>Часов полетных испытаний</p><a href="#" class="link link-primary link-primary-icon">Подробнее</a>
               </div>
             </div>
             <div class="cell-xs-12 cell-sm-6 cell-md-3">
               <div class="counter-wrap">
-                <div data-from="0" data-to="420" class="counter"></div>
+                <div data-from="0" data-to="7435" class="counter"></div>
                 <div class="icon icon-sm icon-default material-icons-settings_input_antenna"></div>
-                <p>Solution-based Software</p><a href="#" class="link link-primary link-primary-icon">Learn More</a>
+                <p>Гектаров аэрофотосъемки</p><a href="#" class="link link-primary link-primary-icon">Подробнее</a>
               </div>
             </div>
           </div>
