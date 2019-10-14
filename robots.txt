@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+Disallow: /*.doc
+Disallow: /admin*
+Disallow: /agreement
+Disallow: /privacy
+
+Sitemap: http://www.kbgo.ru/sitemap.xml
+Host: www.kbgo.ru
