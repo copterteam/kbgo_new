@@ -34,11 +34,11 @@
                 </div>
               </div>
             </div>
-       
+  			
             <div class="cell-xs-12 cell-sm-6 cell-lg-3 offset-top-45 offset-lg-top-0">
               <div class="thumbnail thumbnail-variant-2"><img src="images/home-06-514x550.jpg" alt="" width="514" height="550">
                 <div class="caption">
-                  <h5><a href="#">Оследование высотных конструкций</a></h5>
+                  <h5><a href="#">Высотные обследования</a></h5>
                 </div>
               </div>
             </div>
@@ -67,44 +67,44 @@
             <div class="range">
               <div class="cell-xs-12">
                 <div class="hr-vertical"></div>
-                <h5>Additional services</h5>
+                <h5>Дополнительный сервис</h5>
               </div>
             </div>
             <div class="range range-condensed range-bordered range-xs-6-bordered range-sm-4-bordered range-lg-2-bordered offset-md-top-80">
               <div class="cell-xs-6 cell-sm-4 cell-lg-2">
                 <div class="box-wrap">
                   <div class="icon icon-sm icon-default material-icons-memory"></div>
-                  <p><a href="#">Controller (EEC)</a></p>
+                  <p><a href="#">Цифровая обработка</a></p>
                 </div>
               </div>
               <div class="cell-xs-6 cell-sm-4 cell-lg-2 offset-top-29 offset-xs-top-0">
                 <div class="box-wrap">
                   <div class="icon icon-sm icon-default material-icons-loop"></div>
-                  <p><a href="#">Electrical Maintenance</a></p>
+                  <p><a href="#">Облачный сервис</a></p>
                 </div>
               </div>
               <div class="cell-xs-6 cell-sm-4 cell-lg-2 offset-top-29 offset-sm-top-0">
                 <div class="box-wrap">
                   <div class="icon icon-sm icon-default material-icons-toys"></div>
-                  <p><a href="#">HVAC  Technician</a></p>
+                  <p><a href="#">Спектральный анализ</a></p>
                 </div>
               </div>
               <div class="cell-xs-6 cell-sm-4 cell-lg-2 offset-top-29 offset-lg-top-0">
                 <div class="box-wrap">
                   <div class="icon icon-sm icon-default material-icons-adjust"></div>
-                  <p><a href="#">Motor  Control Circuits</a></p>
+                  <p><a href="#">Геодезическая привязка</a></p>
                 </div>
               </div>
               <div class="cell-xs-6 cell-sm-4 cell-lg-2 offset-top-29 offset-lg-top-0">
                 <div class="box-wrap">
                   <div class="icon icon-sm icon-default material-icons-invert_colors"></div>
-                  <p><a href="#">Lubrication  Technician</a></p>
+                  <p><a href="#">Объемное моделирование</a></p>
                 </div>
               </div>
               <div class="cell-xs-6 cell-sm-4 cell-lg-2 offset-top-29 offset-lg-top-0">
                 <div class="box-wrap">
                   <div class="icon icon-sm icon-default material-icons-gamepad"></div>
-                  <p><a href="#">Technician (EMT)</a></p>
+                  <p><a href="#">Экспертные заключения</a></p>
                 </div>
               </div>
             </div>
@@ -120,8 +120,8 @@
                 <div class="range range-sm-center">
                   <div class="cell-xs-12 cell-sm-7 cell-md-5">
                     <h5>
-                      Best quality products and
-                      considerate service
+                      Своя техническая база и
+                      опыт промышленной эксплуатации
                     </h5>
                   </div>
                 </div>
@@ -136,21 +136,21 @@
             <div class="range range-sm-center">
               <div class="cell-xs-12 cell-md-10">
                 <div class="hr-vertical"></div>
-                <h5>Our facilities</h5>
+                <h5>Наши компетенции</h5>
               </div>
             </div>
             <div class="range offset-top-45">
               <div class="cell-xs-12 cell-sm-6 cell-md-4">
-                <h6>Ocean Avenger Drill Line</h6>
-                <p>The Avenger drill line is extremely efficient in processing beams and channels. The line is  60&prime; long and 11&prime; wide. The drill line eliminates the layout and is extremely accurate using  the CNC Controller.</p>
+                <h6>Работы в условиях подавления связи</h6>
+                <p>Обследование высотных объектов с установленными узконаправленными источниками радиоизлучения высокой мощности требует особого подхода в организации каналов связи и управления летательным аппаратом.</p>
               </div>
               <div class="cell-xs-12 cell-sm-6 cell-md-4 offset-top-45 offset-sm-top-0">
-                <h6>Angle & Flat Bar Line</h6>
-                <p>The angle line will punch and shear angle up to 6&Prime; x 6&Prime; x &frac12;&Prime;. The flat bar remains the same at 6&Prime; x &frac12;&Prime;. The CNC interface gives the operator the status of each part or operation changes  in real-time.</p>
+                <h6>Обследования закрытых пространств</h6>
+                <p>Применение специальных беспилотнников в защитном сферическом каркасе позволяет получить доступ к труднодоступным местам внутренних пространств объектов промышленной инфраструктуры. </p>
               </div>
               <div class="cell-xs-12 cell-sm-6 cell-md-4 offset-top-45 offset-md-top-0">
-                <h6>Messer Metal Master</h6>
-                <p>The Messer plasma HyDefinition cuts fine-feature parts with superior quality and consistency eliminating cost of secondary operations. This table has a cutting area  of 8&prime; x 20&prime; with CNC controls.</p>
+                <h6>Соблюдение законодательства РФ</h6>
+                <p>Использование воздушного пространства РФ происходит в соответствиии с требованиями действующего законодательства. Все применяемые летательные аппараты имеют регистрацию в Росавиации.</p>
               </div>
             </div>
           </div>

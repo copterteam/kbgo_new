@@ -84,7 +84,7 @@
                   <div class="range range-condensed range-md-center text-center">
                     <div class="cell-xs-12 cell-md-10">
                       <h2>
-                        Разработка летательных аппаратов
+                        Разработка беспилотных летательных аппаратов
                         промышленного назначения
                       </h2>
                     </div>
